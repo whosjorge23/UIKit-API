@@ -13,6 +13,7 @@
 		CC60F27C2992D73700730519 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CC60F27A2992D73700730519 /* Main.storyboard */; };
 		CC60F27E2992D73800730519 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CC60F27D2992D73800730519 /* Assets.xcassets */; };
 		CC60F2812992D73800730519 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CC60F27F2992D73800730519 /* LaunchScreen.storyboard */; };
+		CC7F4EAE29A245A1007003A3 /* JokeModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = CC7F4EAD29A245A1007003A3 /* JokeModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		CC60F27D2992D73800730519 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CC60F2802992D73800730519 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		CC60F2822992D73800730519 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CC7F4EAD29A245A1007003A3 /* JokeModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JokeModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				CC60F2742992D73700730519 /* AppDelegate.swift */,
 				CC60F2762992D73700730519 /* SceneDelegate.swift */,
 				CC60F2782992D73700730519 /* ViewController.swift */,
+				CC7F4EAD29A245A1007003A3 /* JokeModel.swift */,
 				CC60F27A2992D73700730519 /* Main.storyboard */,
 				CC60F27D2992D73800730519 /* Assets.xcassets */,
 				CC60F27F2992D73800730519 /* LaunchScreen.storyboard */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CC7F4EAE29A245A1007003A3 /* JokeModel.swift in Sources */,
 				CC60F2792992D73700730519 /* ViewController.swift in Sources */,
 				CC60F2752992D73700730519 /* AppDelegate.swift in Sources */,
 				CC60F2772992D73700730519 /* SceneDelegate.swift in Sources */,
